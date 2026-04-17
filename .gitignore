@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Data (important for RAG later)
+data/
+**/chroma_db/
